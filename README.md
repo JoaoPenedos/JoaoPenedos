@@ -6,7 +6,7 @@
 - 📜 Mail Principal: joao.penedos.2002@gmail.com | Mail Escolar: a23497@alunos.ipca.pt
 
 <div align="center">
-  <a href="https://github.com/Diogo110">
+  <a href="https://github.com/JoaoPenedos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPenedos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPenedos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
