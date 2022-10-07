@@ -11,9 +11,3 @@
   <img align="center" alt="JoaoPenedos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="JoaoPenedos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-</br>
-<div align="center">
-  <a href="https://github.com/JoaoPenedos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPenedos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPenedos&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
