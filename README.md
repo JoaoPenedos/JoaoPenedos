@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on C/C++ :(
+- 🔭 I’m currently working on C/C# :(
 - 📚 Want to learn Python
 
 - 📚 Estou a tirar o curso para a Licenciatura em Engenharia em Sistemas Informaticos (LESI)
