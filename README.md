@@ -1,6 +1,6 @@
 # Hi there 👋 from Portugal
 - ## My name is João Penedos
-- 💬 I've been programing about 6 years. I love finding new ways to do something and learning new things
+- 💬 I've been programming for about 6 years. I love discovering new ways of doing things and learning new technologies.
 - 📚 I'm currently studing in IPCA pursuing a Bachelor's degree in computer systems engineering <br>(Licenciatura em Engenharia em Sistemas Informaticos [LESI])
 - 🔍 Want to learn more about Python
 - 🔭 I’m currently working in a project for Android using Koltin
